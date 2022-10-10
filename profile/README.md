@@ -11,3 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 This organization is to collect and curate TCCON-related repositories all in one place.
+
+Click on the "Repositories" link above to see the TCCON-related repositories.
